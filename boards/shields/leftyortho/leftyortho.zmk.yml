@@ -1,0 +1,9 @@
+file_format: "1"
+id: leftyortho
+name: leftyortho
+type: shield
+url: https://github.com/taichan1113/LeftyOrtho-module
+requires:
+  - seeeduino_xiao_ble
+features:
+  - keys
