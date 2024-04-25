@@ -34,6 +34,6 @@
 #define JP_ASTRK LS(JP_COLON) // *
 #define JP_RBRC  LS(JP_RBKT)  // }
 #define JP_LT    LS(JP_COMMA) // <
-#define JP_RT    LS(JP_DOT)   // >
+#define JP_GT    LS(JP_DOT)   // >
 #define JP_QMARK LS(JP_SLASH) // ?
 #define JP_UNDER LS(JP_BSLH)  // _
